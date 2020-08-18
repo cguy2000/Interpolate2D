@@ -1,0 +1,12 @@
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\bin\x64\Debug\SimpleInterpolation.exe.config
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\bin\x64\Debug\SimpleInterpolation.exe
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\bin\x64\Debug\SimpleInterpolation.pdb
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\bin\x64\Debug\Python.Runtime.dll
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.csprojAssemblyReference.cache
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.Properties.Resources.resources
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.Test.resources
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.csproj.GenerateResource.cache
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.csproj.CopyComplete
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.exe
+C:\Users\cguy2\source\repos\SimpleInterpolation\SimpleInterpolation\obj\x64\Debug\SimpleInterpolation.pdb
